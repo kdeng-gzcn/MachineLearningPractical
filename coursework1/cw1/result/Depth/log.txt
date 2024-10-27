@@ -1,0 +1,6 @@
+Epoch: 100, Depth, depth = 1
+Validation Acc: 81.2, Train Error: 0.168, Validation Error: 0.905 
+Epoch: 100, Depth, depth = 2
+Validation Acc: 81.4, Train Error: 0.098, Validation Error: 1.488 
+Epoch: 100, Depth, depth = 3
+Validation Acc: 82.4, Train Error: 0.093, Validation Error: 1.592 

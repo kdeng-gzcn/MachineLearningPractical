@@ -1,0 +1,2 @@
+Epoch: 100, Lambda1, lambda = 0.001: 
+Validation Acc: 75.1, Train Error: 0.841, Validation Error: 0.849 

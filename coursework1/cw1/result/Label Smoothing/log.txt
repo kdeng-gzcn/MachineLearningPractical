@@ -1,0 +1,2 @@
+Epoch: 100, Label Smoothing, alpha = 0.1: 
+Validation Acc: 85.4, Train Error: 1.017, Validation Error: 1.152 

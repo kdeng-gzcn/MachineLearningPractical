@@ -1,0 +1,6 @@
+Epoch: 100, Width, width = 32
+Validation Acc: 78.9, Train Error: 0.563, Validation Error: 0.705 
+Epoch: 100, Width, width = 64
+Validation Acc: 80.8, Train Error: 0.337, Validation Error: 0.66 
+Epoch: 100, Width, width = 128
+Validation Acc: 80.4, Train Error: 0.17, Validation Error: 0.907 

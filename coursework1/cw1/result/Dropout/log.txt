@@ -1,0 +1,4 @@
+Epoch: 100, Dropout, prob = 0.7: 
+Validation Acc: 83.2, Train Error: 0.444, Validation Error: 0.504 
+Epoch: 100, Dropout, prob = 0.6: 
+Validation Acc: 80.6, Train Error: 0.545, Validation Error: 0.592 
