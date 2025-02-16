@@ -4,4 +4,8 @@ coursework2/cw1/
 coursework2/data/
 coursework2/mlp.egg-info/
 coursework2/cw2
+coursework2/VGG_38_BN_1e-3_experiment/*
+coursework2/VGG_38_BN_RC_1e-2/*
+coursework2/VGG_38_BN_RC_1e-2_experiment/*
+coursework2/VGG_38_experiment/*
 **/__pycache__/
